@@ -1,0 +1,3 @@
+sehir = Kahramanmaras
+bolum = Bilgisayar Teknolojileri ve Bİlişim Sistemleri
+oguz100denemedeneme
